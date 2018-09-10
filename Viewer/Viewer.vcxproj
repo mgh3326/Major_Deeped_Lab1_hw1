@@ -186,6 +186,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ImgScalingDlg.h" />
     <ClInclude Include="RawInfoDlg.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -194,6 +195,7 @@
     <ClInclude Include="ViewerDlg.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ImgScalingDlg.cpp" />
     <ClCompile Include="RawInfoDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
