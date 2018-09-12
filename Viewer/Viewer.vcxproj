@@ -189,6 +189,7 @@
     <ClInclude Include="ImgScalingDlg.h" />
     <ClInclude Include="RawInfoDlg.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="RotationDlg.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="Viewer.h" />
@@ -197,6 +198,7 @@
   <ItemGroup>
     <ClCompile Include="ImgScalingDlg.cpp" />
     <ClCompile Include="RawInfoDlg.cpp" />
+    <ClCompile Include="RotationDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
