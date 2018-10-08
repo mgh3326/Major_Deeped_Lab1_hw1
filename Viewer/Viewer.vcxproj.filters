@@ -39,6 +39,9 @@
     <ClInclude Include="RotationDlg.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FilterDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Viewer.cpp">
@@ -57,6 +60,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="RotationDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterDlg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -186,6 +186,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="FilterDlg.h" />
     <ClInclude Include="ImgScalingDlg.h" />
     <ClInclude Include="RawInfoDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -196,6 +197,7 @@
     <ClInclude Include="ViewerDlg.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FilterDlg.cpp" />
     <ClCompile Include="ImgScalingDlg.cpp" />
     <ClCompile Include="RawInfoDlg.cpp" />
     <ClCompile Include="RotationDlg.cpp" />
