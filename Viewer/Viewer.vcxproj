@@ -186,6 +186,9 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AddNoiseDlg.h" />
+    <ClInclude Include="AddNoiseTab_1.h" />
+    <ClInclude Include="AddNoiseTab_2.h" />
     <ClInclude Include="FilterDlg.h" />
     <ClInclude Include="ImgScalingDlg.h" />
     <ClInclude Include="RawInfoDlg.h" />
@@ -197,6 +200,9 @@
     <ClInclude Include="ViewerDlg.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AddNoiseDlg.cpp" />
+    <ClCompile Include="AddNoiseTab_1.cpp" />
+    <ClCompile Include="AddNoiseTab_2.cpp" />
     <ClCompile Include="FilterDlg.cpp" />
     <ClCompile Include="ImgScalingDlg.cpp" />
     <ClCompile Include="RawInfoDlg.cpp" />
