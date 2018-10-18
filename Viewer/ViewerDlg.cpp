@@ -2828,7 +2828,7 @@ void InputGaussianNoise(unsigned char** In, unsigned char** Out, int nHeight, in
 
 
 
-			Out[h][w] =saturate_cast<unsigned char>(fTemp);//이거 바꾸라했는데
+			Out[h][w] = saturate_cast<unsigned char>(fTemp);//이거 바꾸라했는데
 
 		}
 
